@@ -6,31 +6,32 @@ In this week we solved 8 problems inorder to grasp javascript
   <summary>
     Questions
   </summary>
+</br>
     <details>
       <summary>
         Easy
       </summary>
     </br>
-     - 1) Anagram
-     - 2) expenditure
-     - 3) Largest Element in Array
+     -  Anagram
+     -  expenditure
+     -  Largest Element in Array
     </details>
      <details>
       <summary>
         medium
       </summary>
      </br>
-      - 1) countVowels
-      - 2) Palindrome
-      - 3) Time
+      - countVowels
+      - Palindrome
+      - Time
     </details>
      <details>
       <summary>
         Hard
       </summary>
      </br>
-      - 1) Calculator
-      - 2) TodoList
+      - Calculator
+      - TodoList
     </details>
 </details>
 
