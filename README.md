@@ -5,33 +5,33 @@ In this week we solved 8 problems inorder to grasp javascript
 <details>
   <summary>
     Questions
+  </summary>
     <details>
       <summary>
         Easy
       </summary>
     </br>
-     * Anagram
-     * expenditure
-     * Largest Element in Array
+     - 1) Anagram
+     - 2) expenditure
+     - 3) Largest Element in Array
     </details>
      <details>
       <summary>
         medium
       </summary>
      </br>
-      * countVowels
-      * Palindrome
-      * Time
+      - 1) countVowels
+      - 2) Palindrome
+      - 3) Time
     </details>
      <details>
       <summary>
         Hard
       </summary>
      </br>
-      *Calculator
-      *TodoList
+      - 1) Calculator
+      - 2) TodoList
     </details>
-  </summary>
 </details>
 
 ### I added a solutions for every problem
